@@ -1,127 +1,124 @@
 .navar {
-    background-color: black;
-    display: flex;
-    color: white;
-    width: 100%;
-    height: 3rem;
-  }
-  
-  .company {
-    padding-top: 1rem;
-    width: 20%;
-    padding-left: 10px;
-  }
-  .search {
-    padding-top: 1rem;
-    width: 70%;
-    background-color: rgb(83, 78, 78);
-    padding-left: 10px;
-    margin-top: 2px;
-    margin-bottom: 2px;
-    color: rgb(208, 199, 199);
-  }
-  
-  .toolbar {
-    width: 20%;
-    padding-left: 5px;
-    padding-top: 10px;
-    height: 45rem;
-    background-color: rgb(199, 191, 191);
-  }
-  .sing_out {
-    padding-top: 1rem;
-    width: 10%;
-    background-color: rgb(58, 56, 56);
-    padding-left: 10px;
-  }
-  .toolbar aside {
-    display: block;
-  }
+  background-color: black;
+  display: flex;
+  color: white;
+  width: 100%;
+  height: 3rem;
+}
 
-  .dashboard {
-    color: rgb(19, 45, 190);
-  }
-  aside {
-    padding: 10px;
-  }
-  .integeration {
-    margin-bottom: 20px;
-  }
-  .toolbar span {
-    padding-left: 5px;
-  }
-  .save-report {
-    color: gray;
-  }
-  .save_span {
-    margin-left: 40%;
-  }
+.company {
+  padding-top: 1rem;
+  width: 20%;
+  padding-left: 10px;
+}
+.search {
+  padding-top: 1rem;
+  width: 70%;
+  background-color: rgb(83, 78, 78);
+  padding-left: 10px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  color: rgb(208, 199, 199);
+}
 
-  .main {
-    display: flex;
-  }
+.toolbar {
+  width: 20%;
+  padding-left: 5px;
+  padding-top: 10px;
+  height: 45rem;
+  background-color: rgb(199, 191, 191);
+}
+.sing_out {
+  padding-top: 1rem;
+  width: 10%;
+  background-color: rgb(58, 56, 56);
+  padding-left: 10px;
+}
+.toolbar aside {
+  display: block;
+}
 
-  * {
-    
-    padding: 0;
-  }
-  
-  table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  td,
-  th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
-  
-  tr:nth-child(even) {
-    background-color: #dddddd;
-  }
-  
-  .table_div{
-    width: 80%;
-  }
-  .botton_div {
-    display: flex;
-    margin-bottom: 20px;
-    margin-top: 10px;
-    border-bottom: 1px solid gray;
-    margin-bottom: 20px;
-    
-  }
-  .div1 {
-    display: flex;
-    margin-left: 30rem;
-    margin-bottom: 15px;
-  }
-  .order_h2 {
-    margin-left: 10px;
-    font-family: "Courier New", Courier, monospace;
-    font-size: xx-large;
-  }
-  .btn3 {
-    margin-left: 5px;
-  }
-  .btn {
-    margin: 0 10px;
-    background: none;
-    padding: 5px 5px 5px 5px;
-    border-style: 1px solid rgb(48, 6, 6);
-    height: 2rem;
-  }
-  .btn1 {
-    margin: 0;
-  }
-  .btn2 {
-    margin: 0;
-  }
-  .btn3 {
-    width: 8rem;
-  }
-  
-  
+.dashboard {
+  color: rgb(19, 45, 190);
+}
+aside {
+  padding: 10px;
+}
+.integeration {
+  margin-bottom: 20px;
+}
+.toolbar span {
+  padding-left: 5px;
+}
+.save-report {
+  color: gray;
+}
+.save_span {
+  margin-left: 40%;
+}
+
+.main {
+  display: flex;
+}
+
+* {
+  padding: 0;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.table_div {
+  width: 80%;
+}
+.botton_div {
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 20px;
+}
+.div1 {
+  display: flex;
+  margin-left: 50rem;
+  margin-bottom: 15px;
+}
+.order_h2 {
+  margin-left: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+  margin-top: 0;
+}
+.btn3 {
+  margin-left: 5px;
+}
+.btn {
+  margin: 0 10px;
+  background: none;
+  padding: 5px 5px 5px 5px;
+  border-style: 1px solid rgb(48, 6, 6);
+  height: 2rem;
+}
+.btn1 {
+  margin: 0;
+}
+.btn2 {
+  margin: 0;
+}
+.btn3 {
+  width: 8rem;
+}
